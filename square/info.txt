@@ -1,0 +1,1 @@
+square_npatch2_numsteps40000_stepstoopt1000_centerrad1.0_phi0.4_batchsize128_closenesspenalty0.0
